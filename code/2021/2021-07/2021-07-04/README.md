@@ -1,4 +1,6 @@
 安装环境参考https://github.com/pynote/investnote
+
+**首次运行后，将会缓存数据文件，若需获取实时数据，将文件夹下.pkl文件删除即可。**
 ### 1. 指数走势
 >python trend_of_sh000001.py
 
