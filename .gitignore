@@ -2,3 +2,4 @@
 *.pkl
 temp
 nopush_*
+*.csv
